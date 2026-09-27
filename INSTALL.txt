@@ -1,0 +1,23 @@
+GAMEPAD TEST PRO — как установить
+================================
+
+1) Просто HTML
+   Открой Gamepad_LAB_Ultimate.html в Chrome / Edge.
+
+2) Через консоль (как «плагин» на любую страницу)
+   - Открой Gamepad_TEST_PRO_console.js
+   - Скопируй всё (Ctrl+A → Ctrl+C)
+   - В браузере: F12 → Console
+   - Вставь и Enter
+   - Появится оверлей
+
+   Снова вставить или Ctrl+Shift+G — показать/скрыть
+   ✕ — закрыть, — — свернуть
+
+3) Tampermonkey / Violentmonkey (постоянно)
+   - Установи расширение Tampermonkey
+   - Dashboard → Create new script
+   - Вставь содержимое Gamepad_TEST_PRO.user.js → Save
+   - На любой странице справа внизу кнопка 🎮
+
+Горячая клавиша: Ctrl+Shift+G
